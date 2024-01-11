@@ -1,0 +1,337 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(11, 4, 40);
+
+}
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+.main{
+    background-color: rgb(11, 4, 40);
+    margin-top: 40px;
+    margin-bottom: 50px;
+    
+    margin-left: 200px;
+    padding: 0;
+    height: 90vh;
+    width: 70vw;
+   
+}
+h2{
+    color: aliceblue;
+}
+
+.furthest{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 5px;
+}
+.dash{
+    /* background-color: rgb(58, 41, 19); */
+    display: flex;
+    justify-content: space-between;
+}
+.dash2{
+    height: 30vh;
+    margin: 0;
+    padding: 0;
+    /* background-color: rgb(148, 107, 186) */
+    
+    
+}
+.face2{
+    background-color: rgb(5, 44, 78);
+    display: flex;
+    flex-direction: column;
+    /* gap: 10px; */
+    justify-content: center;
+    align-items: center;
+    /* height: 9vh; */
+    
+}
+.twee{
+    background-color: rgb(5, 44, 78);
+    display: flex;
+    flex-direction: column;
+    /* gap: 10px; */
+    justify-content: center;
+    align-items: center;
+    /* height: 9vh; */
+}
+
+.insta{
+    background-color: rgb(5, 44, 78);
+    display: flex;
+    flex-direction: column;
+    /* gap: 10px; */
+    justify-content: center;
+    align-items: center;
+    /* height: 9vh; */
+    
+}
+.you{
+    background-color: rgb(5, 44, 78);
+    display: flex;
+    flex-direction: column;
+    /* gap: 10px; */
+    justify-content: center;
+    align-items: center;
+    /* height: 9vh; */
+}
+
+.mainn{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    justify-content:space-between ;
+    margin-top: 20px;
+}
+
+.mainn > div{
+    border-radius: 5px;
+    height: 25vh;
+    width: 25vw;
+    margin-top: 5px;
+    
+    
+}
+.dash3{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    /* background-color: rgb(56, 50, 117); */
+    gap: 5px;
+    height: 30vh;
+}
+.dash3 > div{
+    width: 70vw;
+    height: 35vh;
+    margin: 0;
+    padding: 0;
+}
+.dash31 {
+    margin: 0;
+    padding: 0;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    justify-content: space-between;
+    /* background-color: rgb(110, 158, 158); */
+    
+
+}
+.dash31 > div{
+    height: 17vh;
+    width: 30vw;
+    border-radius: 5px;
+}
+.dash32 {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    gap: 15px;
+    
+}
+.dash32 > div{
+    height: 17vh;
+    width: 30vw;
+    border-radius: 5px;
+}
+p{
+    color: hsl(228, 34%, 66%)
+}
+
+.face22{
+    /* background-color: rgb(5, 44, 78);
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    height: 30vh */
+    background-color:rgb(5, 44, 78);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.column1{
+    background-color: rgb(5, 44, 78);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+
+}
+
+.column2{
+    background-color: rgb(5, 44, 78);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+
+}
+.rate{
+    background-color: rgb(5, 44, 78);
+    color: hsl(163, 72%, 41%);
+
+}
+.rate > svg {
+    background-color: rgb(5, 44, 78);
+    
+}
+.rate2{
+    color: hsl(356, 69%, 56%);
+    background-color: rgb(5, 44, 78);
+
+}
+.rate2 > svg{
+    background-color: rgb(5, 44, 78);
+
+}
+.likes{
+    background-color: rgb(5, 44, 78);
+    color: hsl(228, 34%, 66%)
+
+}
+.number{
+    background-color: rgb(5, 44, 78);
+    color: white;
+}
+.logof{
+    background-color: rgb(5, 44, 78);
+
+}
+.logof > svg{
+    background-color: rgb(5, 44, 78);
+
+}
+.face23{
+    background-color:rgb(5, 44, 78);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.insta2{
+    background-color:rgb(5, 44, 78);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.insta22{
+    background-color:rgb(5, 44, 78);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.twee3{
+    background-color:rgb(5, 44, 78);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.twee33{
+    background-color:rgb(5, 44, 78);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.youtube1{
+    background-color:rgb(5, 44, 78);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.youtube2{
+    background-color:rgb(5, 44, 78);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+/* .nathan1{
+    height: 7vh;
+    background-color: rgb(5, 44, 78); */
+
+.mediaicon{
+margin-bottom: 15px;
+background-color: rgb(5, 44, 78);
+color: hsl(228, 34%, 66%)
+
+
+}
+.mediaicon > svg{
+    background-color: rgb(5, 44, 78);
+
+}
+.year{
+    background-color: rgb(5, 44, 78);
+    font-size: 32px;
+    color: hsl(0, 0%, 100%);
+    font-weight: 700;
+}
+.followers{
+    margin-bottom: 15px;
+    background-color: rgb(5, 44, 78);
+    font-size:7px;
+    font-weight: 10;
+    color: hsl(228, 34%, 66%)
+    
+}
+.today{
+    color: hsl(163, 72%, 41%);
+    background-color: rgb(5, 44, 78);
+    font-size: 9px;
+}
+.today > svg{
+    background-color: rgb(5, 44, 78); ;
+}
+.today2{
+    color: red;
+    background-color: rgb(5, 44, 78);;
+    font-size:9px ;
+}
+.today2 > svg {
+    background-color: rgb(5, 44, 78);;
+}
+
+.dark{
+    display: flex;
+    align-items: center;
+}
+.toggle {
+    display: flex;
+    align-items: center;
+    user-select: none;
+  }
+
+  .toggle-input {
+    display: none;
+  }
+
+  .toggle-label {
+    display: flex;
+    align-items: center;
+    width: 40px; 
+    height: 20px; 
+    background-color: #3dd18cd6;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  .toggle-thumb {
+    width: 18px; 
+    height: 18px; 
+    background-color:hsl(230, 22%, 74%);
+    border-radius: 50%;
+    margin-left: 2px; 
+    transition: transform 0.3s;
+  }
+
+  
